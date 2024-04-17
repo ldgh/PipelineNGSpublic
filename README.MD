@@ -59,7 +59,7 @@ usage: main.py [-h] [--ram RAM] [--workdir WORKDIR] [--input INPUT] [--threads T
   --threads THREADS     Number of threads to use
   --txts TXTS           Folder with text files for optinal flags
   --step STEP           Step you want start
-  --lista_idvs LISTA_IDVS  Sndividuals targed list
+  --lista_idvs LISTA_IDVS  Individuals targed list
   --tmp TMP             Keep temporary files
   --joint JOINT         If joint "true". Else "false"
   --mode MODE           For exome use "exome". For wgs use "wgs"
