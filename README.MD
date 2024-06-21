@@ -16,8 +16,7 @@
 
 Sequencing machines output files that must be processed before they can be used in biological analyses. This is a  automated pipeline for joint and incremental variant calling, developed by [TOU, R.](http://lattes.cnpq.br/5429240008797663) for variant calling from NGS data. This script optimizes the time spent by the bioinformatician behind the analyses, allowing greater flexibility for passing parameters to generate the final product of this work: a high-quality VCF file.
 
-![workflow](https://github.com/lcsfaria/NGS_TOU/assets/73356412/77ffaab4-7902-4639-b169-74700d144820)
-
+![flowchat pipeline](https://github.com/ldgh/pipelineNGS/assets/58569730/efa70f4c-80a9-4bf9-a589-1c0bf693a450)
 
 ## Programs
 [Python 3](https://www.python.org/)
@@ -72,15 +71,15 @@ python3 main.py --ram 4G --workdir dados/pipelineNGS-main/teste/rodando/ --input
 
 ## Files:
 
-In the parameter --lista_idvs, a list with the names of the samples must be provided. This is important because the program expects the standard sample name+"_L008_R1.fastq.gz" and sample name+"_L008_R2.fastq.gz" in the initial fastq, and all other files are named based on the individual's name. We differentiate the step from the output folder name, but except for the fastqs, the files will be named like this: sample name+file extension (e.g. joão_S1.bam).
+In the parameter --lista_idvs, a list with the names of the samples must be provided. This is important because the program expects the standard sample name+"_L008_R1.fastq.gz" and sample name+"_L008_R2.fastq.gz" in the initial fastq, and all other files are named based on the sample's identifiers. We differentiate the step from the output folder name, but except for the fastqs, the files will be named like this: sample name+file extension (e.g. joão_S1.bam).
 
-The parameter '--txts' indicates the folder where some very important text files are located. They are:
+The parameter '--txts' indicates the folder where the config files are located. They are:
 
-**cmdtrim.txt**: In the first column, which should not be modified, we have the names of the programs we use, and in the second column, separated by semicolons, we have the command used to call this program. See the template file.
+**cmdtrim.txt**: In the first column, which should not be modified, the names of the programs used are located, and in the second column, separated by semicolons, the command used to call this program. See the template file.
 
-**Intervals.txt**: The genome intervals where we will call the variants. It can be replaced by the bed file with the targets of the kit used. Be careful, the more intervals, the larger the space occupied by the temporary files folder.
+**Intervals.txt**: The genome intervals where variants will be called.
 
-**obligatory_flags.txt**: Mandatory flags that can be modified. The number will increase in future versions of the program. Same logic as the cmdtrim.txt file.
+**obligatory_flags.txt**: Mandatory flags that can be modified. The number will increase in future versions. Same logic as the cmdtrim.txt file.
 
 **optional_flags.txt**: Same as the previous file, but for optional flags.
 
