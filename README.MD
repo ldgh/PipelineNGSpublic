@@ -133,9 +133,6 @@ DANECEK, P.; BONFIELD, J. K.; LIDDLE, J.; MARSHALL, J.; OHAN, V.; POLLARD, M. O.
 
 EWELS, P.; MAGNUSSON, M.; LUNDIN, S.; KÄLLER, M. MultiQC: summarize analysis results for multiple tools and samples in a single report. Bioinformatics , vol. 32, no. 19, p. 3047–3048, 16 Jun. 2016. Accessed on: 28 Aug. 2023.
 
-GILISSEN, C.; HOISCHEN, A.; BRUNNER, H. G.; VELTMAN, J. A. Disease gene identification strategies for exome sequencing. European journal of human genetics: EJHG, vol. 20, no. 5, p. 490–497, 18 Jan. 2012. Accessed on: 31 Mar. 2024.
-GRIFFITHS, A. J. F.; WESSLER, S. R.; CARROLL, S. B.; DOEBLEY, J. Introduction to Genetic Analysis. [S. l.]: W. H. Freeman, 2010.
-
 LI, H. Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM. 16 Mar. 2013. Available at: http://arxiv.org/abs/1303.3997. Accessed on: 28 Aug. 2023.
 
 MCKENNA, A.; HANNA, M.; BANKS, E.; SIVACHENKO, A.; CIBULSKIS, K.; KERNYTSKY, A.; GARIMELLA, K.; ALTSHULER, D.; GABRIEL, S.; DALY, M.; DEPRISTO, M. A. The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data. Genome research, vol. 20, no. 9, p. 1297–1303, 1 Sep. 2010. Accessed on: 10 Jan. 2024.
