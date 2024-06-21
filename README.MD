@@ -91,7 +91,7 @@ The parameter '--txts' indicates the folder where the config files are located. 
 ### Flag --step
 This flag is used to continue the run from somewhere you stopped. In other words: it tells the program how far it has already gone and not where to start from. The program starts from the step following the one indicated. Its content is related to the last successfully executed step, and the options coincide with the names of the output folders. The possibilities, in order, are:
 
-nada: For the untrimmed fastq
+`nada`: For the untrimmed fastq
 
 bwa: When individuals have already been mapped and sorted
 
