@@ -93,31 +93,31 @@ This flag is used to continue the run from somewhere you stopped. In other words
 
 `nada`: For the untrimmed fastq
 
-bwa: When individuals have already been mapped and sorted
+`bwa`: When individuals have already been mapped and sorted
 
-markduplicates: Duplicates marked and removed
+`markduplicates`: Duplicates marked and removed
 
-paired_only:
+`paired_only`:
 
-leftaligned: bam left aligned
+`leftaligned`: bam left aligned
 
-baserecalibrator1: First run of baserecalibrator
+`baserecalibrator1`: First run of baserecalibrator
 
-bqsr_applied: bam after base recalibration
+`bqsr_applied`: bam after base recalibration
 
-baserecalibrator2: Second run of baserecalibrator to compare with the first
+`baserecalibrator2`: Second run of baserecalibrator to compare with the first
 
-analyzecovariates: comparison before and after running baserecalibrator
+`analyzecovariates`: comparison before and after running baserecalibrator
 
-gvcf: when the step of creating GVCFs has been run
+`gvcf`: when the step of creating GVCFs has been run
 
-dbimport: when genomicdb has already been created. Attention: if you want to update the genomicdb, you must place the GVCFs of the individuals to be added in the /output/gvcf folder of your work directory (you do not need the gvcfs that are already in the genomicdb), with a list of individuals compatible with the new individuals, and the --step flag should be 'gvcf' and not dbimport.
+`dbimport`: when genomicdb has already been created. Attention: if you want to update the genomicdb, you must place the GVCFs of the individuals to be added in the /output/gvcf folder of your work directory (you do not need the gvcfs that are already in the genomicdb), with a list of individuals compatible with the new individuals, and the --step flag should be 'gvcf' and not dbimport.
 
-rawvcf: the raw VCF has already been created from the genomicdb
+`rawvcf`: the raw VCF has already been created from the genomicdb
 
-variantrecalibrator: variant recalibration files have already been generated
+`variantrecalibrator`: variant recalibration files have already been generated
 
-recalibrated: recalibration has already been completed and there are two VCF files in the folder. It means that the program has already run and is here only for future updates.
+`recalibrated`: recalibration has already been completed and there are two VCF files in the folder. It means that the program has already run and is here only for future updates.
 
 ## Acknowledgements
 Main developer: Rafael Pereira Tou
