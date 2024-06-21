@@ -7,8 +7,7 @@
 - [Introduction](#introduction)
 - [Programs](#programs)
 - [Python Libraries](#python-libraries)
-- [Example of the execution of the command line](#example-of-the-execution-of-the-command-line)
-- [Optional parameters](#optional-parameters)
+- [Usage](#Usage)
 - [Mandatory input files](#Files)
 - [Bibliografy](#bibliografy)
 
