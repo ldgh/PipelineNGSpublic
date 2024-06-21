@@ -126,20 +126,20 @@ Main developer: Rafael Pereira Tou
 
 ANDREWS, S. FastQC A Quality Control tool for High Throughput Sequence Data. 2010. Available at: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/. Accessed on: 28 Aug. 2023.
 
-BOLGER, A. M.; LOHSE, M.; USADEL, B. Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics , vol. 30, no. 15, p. 2114–2120, 1 Aug. 2014. .
+BOLGER, A. M.; LOHSE, M.; USADEL, B. Trimmomatic: a flexible trimmer for Illumina sequence data. Bioinformatics , vol. 30, no. 15, p. 2114–2120, 1 Aug. 2014.
 
 BROAD INSTITUTE. Picard toolkit. Broad Institute, GitHub repository, 2019. Available at: https://broadinstitute.github.io/picard/.
 
-DANECEK, P.; BONFIELD, J. K.; LIDDLE, J.; MARSHALL, J.; OHAN, V.; POLLARD, M. O.; WHITWHAM, A.; KEANE, T.; MCCARTHY, S. A.; DAVIES, R. M.; LI, H. Twelve years of SAMtools and BCFtools. GigaScience, vol. 10, no. 2, p. giab008, 16 Feb. 2021. . Accessed on: 28 Aug. 2023.
+DANECEK, P.; BONFIELD, J. K.; LIDDLE, J.; MARSHALL, J.; OHAN, V.; POLLARD, M. O.; WHITWHAM, A.; KEANE, T.; MCCARTHY, S. A.; DAVIES, R. M.; LI, H. Twelve years of SAMtools and BCFtools. GigaScience, vol. 10, no. 2, p. giab008, 16 Feb. 2021. Accessed on: 28 Aug. 2023.
 
-EWELS, P.; MAGNUSSON, M.; LUNDIN, S.; KÄLLER, M. MultiQC: summarize analysis results for multiple tools and samples in a single report. Bioinformatics , vol. 32, no. 19, p. 3047–3048, 16 Jun. 2016. . Accessed on: 28 Aug. 2023.
+EWELS, P.; MAGNUSSON, M.; LUNDIN, S.; KÄLLER, M. MultiQC: summarize analysis results for multiple tools and samples in a single report. Bioinformatics , vol. 32, no. 19, p. 3047–3048, 16 Jun. 2016. Accessed on: 28 Aug. 2023.
 
-GILISSEN, C.; HOISCHEN, A.; BRUNNER, H. G.; VELTMAN, J. A. Disease gene identification strategies for exome sequencing. European journal of human genetics: EJHG, vol. 20, no. 5, p. 490–497, 18 Jan. 2012. . Accessed on: 31 Mar. 2024.
+GILISSEN, C.; HOISCHEN, A.; BRUNNER, H. G.; VELTMAN, J. A. Disease gene identification strategies for exome sequencing. European journal of human genetics: EJHG, vol. 20, no. 5, p. 490–497, 18 Jan. 2012. Accessed on: 31 Mar. 2024.
 GRIFFITHS, A. J. F.; WESSLER, S. R.; CARROLL, S. B.; DOEBLEY, J. Introduction to Genetic Analysis. [S. l.]: W. H. Freeman, 2010.
 
 LI, H. Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM. 16 Mar. 2013. Available at: http://arxiv.org/abs/1303.3997. Accessed on: 28 Aug. 2023.
 
-MCKENNA, A.; HANNA, M.; BANKS, E.; SIVACHENKO, A.; CIBULSKIS, K.; KERNYTSKY, A.; GARIMELLA, K.; ALTSHULER, D.; GABRIEL, S.; DALY, M.; DEPRISTO, M. A. The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data. Genome research, vol. 20, no. 9, p. 1297–1303, 1 Sep. 2010. . Accessed on: 10 Jan. 2024.
+MCKENNA, A.; HANNA, M.; BANKS, E.; SIVACHENKO, A.; CIBULSKIS, K.; KERNYTSKY, A.; GARIMELLA, K.; ALTSHULER, D.; GABRIEL, S.; DALY, M.; DEPRISTO, M. A. The Genome Analysis Toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data. Genome research, vol. 20, no. 9, p. 1297–1303, 1 Sep. 2010. Accessed on: 10 Jan. 2024.
 
-VAN ROSSUM, G.; DRAKE, F. L. Python 3 Reference Manual: (Python Documentation Manual Part 2). [S. l.]: CreateSpace Independent Publishing Platform, 2009.
+VAN ROSSUM, G.; DRAKE, F. L. Python 3 Reference Manual: (Python Documentation Manual Part 2). CreateSpace Independent Publishing Platform, 2009.
 
