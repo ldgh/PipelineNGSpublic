@@ -16,7 +16,8 @@
 
 Sequencing machines output files that must be processed before they can be used in biological analyses. This is a  automated pipeline for joint and incremental variant calling, developed by [TOU, R.](http://lattes.cnpq.br/5429240008797663) for variant calling from NGS data. This script optimizes the time spent by the bioinformatician behind the analyses, allowing greater flexibility for passing parameters to generate the final product of this work: a high-quality VCF file.
 
-![flowchat pipeline](https://github.com/ldgh/pipelineNGS/assets/58569730/efa70f4c-80a9-4bf9-a589-1c0bf693a450)
+![flowchat pipeline](https://github.com/ldgh/PipelineNGSpublic/assets/58569730/0514689a-9c41-45d6-8454-3217c19cf629)
+
 
 ## Programs
 [Python 3](https://www.python.org/)
